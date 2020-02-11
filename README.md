@@ -14,3 +14,12 @@ Once the questions are answered and submitted the program will use the numbers a
 
 ![FriendFinder3](https://user-images.githubusercontent.com/51678140/74260755-18b66c00-4cc8-11ea-90d4-4beb506e0f99.png)
 
+## Technology Used:
+* Javascript
+* JQuery
+* JSON
+* Node.js
+* Express.js
+* HTML
+* Bootstrap
+* CSS
