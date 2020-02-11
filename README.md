@@ -10,7 +10,7 @@ The user starts by entering their name and a link to their picture. Then answers
 
 ![FriendFinder2](https://user-images.githubusercontent.com/51678140/74258695-bf990900-4cc4-11ea-91c5-555a954a5e58.png)
 
-Once the questions are answered and submitted the program will use the numbers assigned to each answer to find the friend in the database that best matches up with the user. This user will then be displayed to the user.
+Once the questions are answered and submitted the program will use the numbers assigned to each answer to find the friend in the database that best matches up with the user. This result will then be displayed to the user.
 
 ![FriendFinder3](https://user-images.githubusercontent.com/51678140/74260755-18b66c00-4cc8-11ea-90d4-4beb506e0f99.png)
 
