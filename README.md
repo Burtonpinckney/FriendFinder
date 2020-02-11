@@ -9,3 +9,6 @@ Simply click on the 'Go To Survey' button to get started.
 The user starts by entering their name and a link to their picture. Then answers 10 questionsabout their personality.
 
 ![FriendFinder2](https://user-images.githubusercontent.com/51678140/74258695-bf990900-4cc4-11ea-91c5-555a954a5e58.png)
+
+Once the questions are answered and submitted the program will use the numbers assigned to each answer to find the friend in the database that best matches up with the user. This user will then be displayed to the user.
+
