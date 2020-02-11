@@ -1,7 +1,7 @@
 # FriendFinder
 
 ## Description
-This program asks a series of 10 questions and uses the answers of the user to best match them with the users already in the data base.
+This program asks a series of 10 questions and takes the answers of the user to best match them with one of the other users already in the data base.
 Simply click on the 'Go To Survey' button to get started.
 
 ![FriendFinder1](https://user-images.githubusercontent.com/51678140/74258589-95dfe200-4cc4-11ea-8397-b2553367ee9d.png)
