@@ -6,3 +6,4 @@ The user starts by entering their name and a link to their picture. Then answers
 
 ![FriendFinder1](https://user-images.githubusercontent.com/51678140/74258589-95dfe200-4cc4-11ea-8397-b2553367ee9d.png)
 
+![FriendFinder2](https://user-images.githubusercontent.com/51678140/74258695-bf990900-4cc4-11ea-91c5-555a954a5e58.png)
